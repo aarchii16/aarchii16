@@ -82,6 +82,6 @@ Bennett University • Greater Noida, India • 2027
 
 📧 **aarchi.sharma1606@gmail.com**
 
-🔗 [LinkedIn] https://www.linkedin.com/in/aarchi-sharma16/
+🔗 [LinkedIn](https://www.linkedin.com/in/aarchi-sharma16/)
 
 💻 [GitHub](https://github.com/aarchii16)
